@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Avenir&weight=800&size=30&duration=3000&pause=1000&color=F7DB4C&vCenter=true&width=1000&height=35&lines=Hi+there!+%F0%9F%91%8B+I'm+Dinar+Davis%2C+an+IT+Support+professional.)](https://git.io/typing-svg)
-<br>- 👶🏽 Born in 🇯🇵, raised in 🌉 🇺🇸, presently 🌏📍👀.<br>- 🌱 I’m currently studying for the CompTIA Network+ Certification.<br>- 💡 Always interested in collaborating on new projects!<br>- ✨ Fun facts: The Wright brothers are my cousins. ✈️ (Yup, those guys.) Also, I love donuts. 🍩
+  
+## 🤓 About Me:
+<p>- 👶🏽 Born in 🇯🇵, raised in 🌉 🇺🇸, presently 🌏📍👀.<br>- 🌱 I’m currently studying for the CompTIA Network+ Certification.<br>- 💡 Always interested in collaborating on new projects!<br>- ✨ Fun facts: The Wright brothers are my cousins. ✈️ (Yup, those guys.) Also, I love donuts. 🍩<br></p>
 
 🔗 **Connect with me:**
 
