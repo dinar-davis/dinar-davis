@@ -15,7 +15,7 @@ A gudie to creating and optimizing an osTicket help desk ticketing system, that 
 - **[osTicket: Prerequisites and Installation](https://github.com/dinar-davis/osTicket-Lab/blob/main/README.md#prerequisites)**  
   A detailed description of the prerequisites for installing osTicket.
 
-- **[osTicket: Post-Installation Configuration](https://github.com/dinar-davis/osTicket-Lab/blob/main/README.md#5-install-osticket)**  
+- **[osTicket: Installation Configuration](https://github.com/dinar-davis/osTicket-Lab/blob/main/README.md#5-install-osticket)**  
   Configuring and installing osTicket, including setting up departments, teams, and custom fields to tailor the system to your organization’s needs.
 
 - **[osTicket: Ticket Lifecycle Examples](https://github.com/dinar-davis/osTicket-Lab/blob/main/README.md#ticketing-configuration-guide)**  
