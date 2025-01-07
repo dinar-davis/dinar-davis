@@ -10,25 +10,25 @@
 ## 🧑‍💻 Information Technology Projects:
 
 ### **🔧 osTicket (Help Desk Ticketing System)**  
-I’ve worked on creating and optimizing a help desk ticketing system, osTicket, that can streamline internal IT support operations. Here’s a breakdown of the different stages of working with osTicket:
+A gudie to creating and optimizing an osTicket help desk ticketing system, that streamlines internal IT support operations. This lab is broken into the following stages of working with osTicket:
 
-- **[osTicket: Prerequisites and Installation](https://github.com/dinar-davis/osticket-prereqs)**  
-  A step-by-step guide on installing the osTicket help desk system, from setting up the required software to configuring your environment for optimal performance.
+- **[osTicket: Prerequisites and Installation](https://github.com/dinar-davis/osTicket-Lab/blob/main/README.md#prerequisites)**  
+  A detailed description of the prerequisites for installing osTicket.
 
-- **[osTicket: Post-Installation Configuration](https://github.com/dinar-davis/post-install-config)**  
-  How to configure and customize osTicket post-installation, including setting up departments, teams, and custom fields to tailor the system to your organization’s needs.
+- **[osTicket: Post-Installation Configuration](https://github.com/dinar-davis/osTicket-Lab/blob/main/README.md#install-osTicket)**  
+  Configuring and installing osTicket, including setting up departments, teams, and custom fields to tailor the system to your organization’s needs.
 
-- **[osTicket: Ticket Lifecycle Examples](https://github.com/dinar-davis/ticket-lifecycle)**  
-  Explore real-world examples of ticket lifecycles in osTicket, and how to effectively manage, prioritize, and resolve tickets in a timely manner.
+- **[osTicket: Ticket Lifecycle Examples](https://github.com/dinar-davis/osTicket-Lab/blob/main/README.md#ticketing-configuration-guide)**  
+  Real-world examples of ticket lifecycles in osTicket, and how to effectively manage, prioritize, and resolve tickets in a timely manner.
 
 ### **☁️ Microsoft Azure & Cloud Solutions**  
-I have experience deploying and managing IT services in Microsoft Azure, including configuring cloud-based Active Directory and securing network communications.
+Labs to demonstrate my experience deploying and managing IT services in Microsoft Azure, including Active Directory cloud-based configuration and securing network communications.
 
-- **[Configuring On-premises Active Directory within Azure VMs](https://github.com/dinar-davis/configure-ad)**  
-  This guide walks you through setting up and integrating on-premises Active Directory in a virtualized Azure environment, enhancing security and user management in the cloud.
+- **[Configuring On-premises Active Directory within Azure VMs](https://github.com/dinar-davis/azure-active-directory-Lab)**  
+  Walk through the process of setting up and integrating on-premises Active Directory within a virtualized Azure environment, improving security and streamlining user management in the cloud.
 
-- **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dinar-davis/azure-network-protocols)**  
-  Learn how to manage and configure Network Security Groups (NSGs) in Azure to protect your network, and dive into inspecting and troubleshooting network protocols for better security and efficiency.
+- **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dinar-davis/azure-permissions-Lab)**  
+  Manage and configure Network Security Groups (NSGs) in Azure to enhance your network protection, and explore techniques for inspecting and troubleshooting network protocols to improve both security and performance.
 
 
 ## 🛠️ Technical Skills & Tools:
